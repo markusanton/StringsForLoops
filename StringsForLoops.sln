@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLength", "StringLengt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AInUserInput", "AInUserInput\AInUserInput.csproj", "{C8CD7CB4-D833-4FBC-B719-A05B6090546C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameLengthComparison", "NameLengthComparison\NameLengthComparison.csproj", "{BFCA6566-F001-4DE9-A33F-DD4D209645D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C8CD7CB4-D833-4FBC-B719-A05B6090546C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8CD7CB4-D833-4FBC-B719-A05B6090546C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8CD7CB4-D833-4FBC-B719-A05B6090546C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFCA6566-F001-4DE9-A33F-DD4D209645D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCA6566-F001-4DE9-A33F-DD4D209645D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCA6566-F001-4DE9-A33F-DD4D209645D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCA6566-F001-4DE9-A33F-DD4D209645D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
